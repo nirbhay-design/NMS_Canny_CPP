@@ -1,0 +1,10 @@
+^D:\INTERNSHIP_PROJECT\SWAAYATTROBOTS\OPENCV-CPP\OPENCV-CPP\BUILD\CMAKEFILES\253DF9F9D5CB22CCABC0E85B3CABD252\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Internship_Project/swaayattrobots/opencv-cpp/opencv-cpp -BD:/Internship_Project/swaayattrobots/opencv-cpp/opencv-cpp/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Internship_Project/swaayattrobots/opencv-cpp/opencv-cpp/Build/NMS-opencv-cpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

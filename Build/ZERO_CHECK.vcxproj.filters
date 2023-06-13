@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Internship_Project\swaayattrobots\opencv-cpp\opencv-cpp\Build\CMakeFiles\253df9f9d5cb22ccabc0e85b3cabd252\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{52150EBD-B73C-3219-84B3-B3F6CB0D9BAB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
